@@ -70,18 +70,22 @@ Cette démarche a permis de garder une bonne visibilité sur le projet et de s�
 - 🌿 Code modulaire avec composants React  
 
 ---
+![Capture d'écran 19 05 2025 à 15 29 23 PM]()
+![Capture d'écran 19 05 2025 à 15 29 07 PM](https://github.com/user-attachments/assets/18073111-fc6e-49da-8690-a7df9d600501)
 
 <h2>📸 Aperçu</h2>
 <h3>🏠 Accueil</h3>
 <img src="https://github.com/user-attachments/assets/ba595f70-5f1b-41c1-86da-43ced22cee19" alt="Accueil 1" width="500"/>
 <img src="https://github.com/user-attachments/assets/3c32d9af-1986-45bb-a2a4-76e4fda20818" alt="Accueil 2" width="500"/>
 <img src="https://github.com/user-attachments/assets/14a3cfe7-e66b-4415-a7c5-6c85cf973f93" alt="Accueil 3" width="500"/>
+<img src="https://github.com/user-attachments/assets/18073111-fc6e-49da-8690-a7df9d600501" alt="Accueil 3" width="100"/>
 
 
 <h3>Menu</h3>
 <img src="https://github.com/user-attachments/assets/7c711256-2804-4000-9c24-bd4afe658098" alt="Question 1" width="500"/>
 <img src="https://github.com/user-attachments/assets/f710108d-134c-4bc6-8ebe-a1da50fd9251" alt="Question 2" width="500"/>
 <img src="https://github.com/user-attachments/assets/7543491e-50ab-45a8-a9b5-074abb2549f9" alt="Question 2" width="500"/>
+<img src="https://github.com/user-attachments/assets/5800c94d-3ffb-4e16-9e3a-9d6391efe69c" alt="Question 2" width="100"/>
 
 
 <h3>A propos</h3>
@@ -89,7 +93,7 @@ Cette démarche a permis de garder une bonne visibilité sur le projet et de s�
 
 <h3>Reservation</h3>
 <img src="https://github.com/user-attachments/assets/44a5ab71-b9fd-46e2-8ceb-87c95ca91169" alt="À propos" width="500"/>
-<img src="https://github.com/user-attachments/assets/2281094d-6336-43aa-8df7-917e17cfc4d7" alt="Question 2" width="200"/>
+<img src="https://github.com/user-attachments/assets/2281094d-6336-43aa-8df7-917e17cfc4d7" alt="Question 2" width="100"/>
 
 ---
 
