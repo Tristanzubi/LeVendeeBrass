@@ -101,5 +101,5 @@ Cette démarche a permis de garder une bonne visibilité sur le projet et de s�
 
 ```bash
 git clone https://github.com/ton-pseudo/le-vendee-brass.git
-cd le-vendee-brass
+cd leVendeeBrass
 
