@@ -77,7 +77,6 @@ Cette démarche a permis de garder une bonne visibilité sur le projet et de s�
 <img src="https://github.com/user-attachments/assets/3c32d9af-1986-45bb-a2a4-76e4fda20818" alt="Accueil 2" width="500"/>
 <img src="https://github.com/user-attachments/assets/14a3cfe7-e66b-4415-a7c5-6c85cf973f93" alt="Accueil 3" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/14a3cfe7-e66b-4415-a7c5-6c85cf973f93" alt="mobile acceuil" height="200"/>
 
 <h3>Menu</h3>
 <img src="https://github.com/user-attachments/assets/7c711256-2804-4000-9c24-bd4afe658098" alt="Question 1" width="500"/>
