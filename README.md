@@ -83,14 +83,14 @@ Cette démarche a permis de garder une bonne visibilité sur le projet et de s�
 <img src="https://github.com/user-attachments/assets/7c711256-2804-4000-9c24-bd4afe658098" alt="Question 1" width="500"/>
 <img src="https://github.com/user-attachments/assets/f710108d-134c-4bc6-8ebe-a1da50fd9251" alt="Question 2" width="500"/>
 <img src="https://github.com/user-attachments/assets/7543491e-50ab-45a8-a9b5-074abb2549f9" alt="Question 2" width="500"/>
-<img src="https://github.com/user-attachments/assets/2281094d-6336-43aa-8df7-917e17cfc4d7" alt="Question 2" width="200"/>
+
 
 <h3>A propos</h3>
 <img src="https://github.com/user-attachments/assets/e4362711-d6a1-4249-81e5-98c17a25221a" alt="Résultat" width="500"/>
 
 <h3>Reservation</h3>
 <img src="https://github.com/user-attachments/assets/44a5ab71-b9fd-46e2-8ceb-87c95ca91169" alt="À propos" width="500"/>
-<img src="https://github.com/user-attachments/assets/2281094d-6336-43aa-8df7-917e17cfc4d7" alt="À propos" width="500"/>
+<img src="https://github.com/user-attachments/assets/2281094d-6336-43aa-8df7-917e17cfc4d7" alt="Question 2" width="200"/>
 
 ---
 
